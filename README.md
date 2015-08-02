@@ -1,4 +1,4 @@
-# gulp-git-committers
+# gulp-git-committers [![Build Status](https://travis-ci.org/dciccale/gulp-git-committers.svg)](https://travis-ci.org/dciccale/gulp-git-committers)
 
 > Get a committer list from a git repository with some sorting and formatting options.
 
