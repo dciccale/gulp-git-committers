@@ -20,5 +20,5 @@ module.exports = function (options) {
     this.emit('end');
   }
 
-  return gitCommitters(options, gutil.noop).stdout.pipe(through(write, end))
+  return gitCommitters(options, gutil.noop).pipe(through(write, end))
 };
