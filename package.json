@@ -1,7 +1,7 @@
 {
   "name": "gulp-git-committers",
   "version": "0.0.1",
-  "description": "A plugin for Gulp",
+  "description": "Get a committer list from a git repository with some sorting and formatting options.",
   "keywords": [
     "gulpplugin",
     "git",
