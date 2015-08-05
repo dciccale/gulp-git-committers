@@ -12,7 +12,7 @@ $ npm install --save-dev gulp-git-committers
 
 ```javascript
 var gulp = require('gulp');
-var rev = require('gulp-git-committers');
+var committers = require('gulp-git-committers');
 
 gulp.task('default', function () {
   return committers()
