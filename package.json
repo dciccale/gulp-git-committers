@@ -1,6 +1,6 @@
 {
   "name": "gulp-git-committers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get a committer list from a git repository with some sorting and formatting options.",
   "keywords": [
     "gulpplugin",
@@ -24,9 +24,6 @@
   "devDependencies": {
     "gulp": "^3.9.0",
     "mocha": "^2.2.5"
-  },
-  "engines": {
-    "node": ">=0.10.0"
   },
   "license": "MIT"
 }
